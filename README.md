@@ -14,3 +14,6 @@ Applied unsupervised learning to segment customers based on purchase patterns fr
 1. Clone the repo: `git clone <your-url>`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the app: `streamlit run app.py`
+
+### Live Link
+https://retailcustomerclustering.streamlit.app/
